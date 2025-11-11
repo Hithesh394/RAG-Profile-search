@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "role": "AI Engineer",
+    "skills": ["Python", "Machine Learning", "TensorFlow"],
+    "experience_years": 3,
+    "location": "Bengaluru",
+    "bio": "Built ML pipelines and deployed models."
+  },
+  {
+    "id": 2,
+    "name": "Priya Nair",
+    "role": "Data Scientist",
+    "skills": ["Python", "R", "NLP", "PyTorch"],
+    "experience_years": 4,
+    "location": "Mumbai",
+    "bio": "NLP specialist with experience in information extraction."
+  },
+  {
+    "id": 3,
+    "name": "Amit Sharma",
+    "role": "Backend Developer",
+    "skills": ["Node.js", "Express", "MongoDB"],
+    "experience_years": 5,
+    "location": "Delhi",
+    "bio": "Built scalable microservices for e-commerce."
+  },
+  {
+    "id": 4,
+    "name": "Sara Ali",
+    "role": "ML Researcher",
+    "skills": ["Python", "Deep Learning", "Transformers"],
+    "experience_years": 2,
+    "location": "Hyderabad",
+    "bio": "Worked on attention-based architectures for text tasks."
+  },
+  {
+    "id": 5,
+    "name": "Rohit Kumar",
+    "role": "Software Engineer",
+    "skills": ["Java", "Spring Boot", "SQL"],
+    "experience_years": 6,
+    "location": "Pune",
+    "bio": "Experienced in backend systems and databases."
+  },
+  {
+    "id": 6,
+    "name": "Neha Gupta",
+    "role": "Data Engineer",
+    "skills": ["Python", "Airflow", "Spark"],
+    "experience_years": 3,
+    "location": "Chennai",
+    "bio": "Built ETL pipelines and data warehouses."
+  },
+  {
+    "id": 7,
+    "name": "Kavya R",
+    "role": "AI Intern",
+    "skills": ["Python", "Scikit-learn", "Data Analysis"],
+    "experience_years": 1,
+    "location": "Bengaluru",
+    "bio": "Worked on prototype ML models and evaluation."
+  },
+  {
+    "id": 8,
+    "name": "Vikram Das",
+    "role": "Full Stack Developer",
+    "skills": ["React", "Node.js", "Postgres"],
+    "experience_years": 4,
+    "location": "Kochi",
+    "bio": "Developed full stack web applications."
+  },
+  {
+    "id": 9,
+    "name": "Meera Joshi",
+    "role": "NLP Engineer",
+    "skills": ["Python", "Transformers", "HuggingFace"],
+    "experience_years": 3,
+    "location": "Bengaluru",
+    "bio": "Built production NLP pipelines and models."
+  },
+  {
+    "id": 10,
+    "name": "Sandeep Rao",
+    "role": "DevOps Engineer",
+    "skills": ["Docker", "Kubernetes", "CI/CD"],
+    "experience_years": 5,
+    "location": "Gurgaon",
+    "bio": "Managed infrastructure and release pipelines."
+  }
+]
